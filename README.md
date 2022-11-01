@@ -1,4 +1,4 @@
-# Bank-Detail view using rest api
+# Get the Bank List and its branch details for a specific branch
 
 
 # Introduction
